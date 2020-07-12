@@ -1,2 +1,2 @@
-# hackhackhack
- server by me for hackathon
+# ServerHackathon
+ Server for hackathon

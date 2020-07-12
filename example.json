@@ -1,0 +1,73 @@
+[
+{
+  "ngoName": "ngoName1",
+  "email": "ngoemail@gmail.com",
+  "password": "ngoPassword",
+  "ngoAim": "ngoAim",
+  "ngoDescription": "ngoDescription",
+  "contact_Info": {
+      "link": "www.abc.com",
+      "Address": "xyz",
+      "contact_No": "789456123"
+  },
+  "ngo_Authorization_Id": "ngo_Authorization_Id"
+}
+,
+{
+  "message": "Auth Success",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5nb2VtYWlsQGdtYWlsLmNvbSIsInVzZXJJZCI6IjVmMGFmNTYxZDE2NDVlNjM2MGYwOTQ2NiIsImlhdCI6MTU5NDU1Mzg2NywiZXhwIjoxNTk0NTU3NDY3fQ.hZONsVeP7twcC9jxvfYsQfhMYcktLKvwJJmr7-N4PG4",
+  "user": {
+      "contact_Info": {
+          "link": "www.abc.com",
+          "Address": "xyz",
+          "contact_No": 789456123
+      },
+      "_id": "5f0af561d1645e6360f09466",
+      "ngoName": "ngoName1",
+      "email": "ngoemail@gmail.com",
+      "password": "$2b$10$wJABlFlgbbAfJVSIYZfBEue9bkjb59CVpgMN1gnCtEXYRnNFLyGC.",
+      "ngoAim": "ngoAim",
+      "ngoDescription": "ngoDescription",
+      "ngo_Authorization_Id": "ngo_Authorization_Id",
+      "ngoReviews": [],
+      "ngo_Recent_Activities": [],
+      "__v": 0
+  }
+},
+{
+  "ngoName": "ngoName2",
+  "email": "ngoemail2@gmail.com",
+  "password": "ngo2Password",
+  "ngoAim": "ngoAim2",
+  "ngoDescription": "ngo2Description",
+  "ngoCategory": "ngoCategory",
+  "contact_Info": {
+      "link": "www.abc2.com",
+      "Address": "xyz2",
+      "contact_No": "789456123"
+  },
+  "ngo_Authorization_Id": "ngo_Authorization_Id"
+},
+{
+  "message": "Auth Success",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5nb2VtYWlsMkBnbWFpbC5jb20iLCJ1c2VySWQiOiI1ZjBhZjk5YjllNDllYzRjZTg4OGQ2ODUiLCJpYXQiOjE1OTQ1NTQ4ODUsImV4cCI6MTU5NDU1ODQ4NX0.-PVkdepsUWahJMnFGeSTVEavEPsbDtaSU1TkYHcwTB8",
+  "user": {
+      "contact_Info": {
+          "link": "www.abc2.com",
+          "Address": "xyz2",
+          "contact_No": 789456123
+      },
+      "_id": "5f0af99b9e49ec4ce888d685",
+      "ngoName": "ngoName2",
+      "email": "ngoemail2@gmail.com",
+      "password": "$2b$10$RqS/RoFQXXqUBDA6OklRDu.JnZTthYUTiXzHiaIYXHJU3j2Gjiyna",
+      "ngoAim": "ngoAim2",
+      "ngoDescription": "ngo2Description",
+      "ngoCategory": "ngoCategory",
+      "ngo_Authorization_Id": "ngo_Authorization_Id",
+      "ngoReviews": [],
+      "ngo_Recent_Activities": [],
+      "__v": 0
+  }
+}
+]
